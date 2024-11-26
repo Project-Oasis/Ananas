@@ -37,7 +37,7 @@ dependencies {
     implementation "androidx.recyclerview:recyclerview:${androidx_version}"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:${kotlin_version}"
     implementation "com.github.eltos:SimpleDialogFragments:${simple_dialog_fragment_version}"
-    implementation "com.vanniktech:android-image-cropper:${cropper_version}"
+    implementation "com.github.ArthurHub:Android-Image-Cropper:${cropper_version}"
     implementation "io.reactivex.rxjava2:rxjava:${rxjava_version}"
     implementation "io.reactivex.rxjava2:rxandroid:${rxandroid_version}"
     implementation "androidx.core:core-ktx:${core_ktx_version}"
