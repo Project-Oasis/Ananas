@@ -15,7 +15,7 @@ import android.widget.Toast;
 import androidx.annotation.ColorRes;
 import androidx.core.content.ContextCompat;
 
-import com.canhub.cropper.CropImageView;
+import com.theartofdev.edmodo.cropper.CropImageView;
 
 import org.jetbrains.annotations.NotNull;
 
